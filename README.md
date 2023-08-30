@@ -25,6 +25,10 @@ The JATE text editor is application accessible via the browser. It allows users 
   2. On the browser, type http://localhost:3000 to start using it. 
 
   ## Visuals
+  Here is a screenshot of the folder structure containing the generated HTML, service worker, manifest file, and .npmrc. 
+
+  ![Folder Structure](./assets/folder.png)
+
   Here is a video and link demonstrating get, post, delete for User and Thought routes. 
 
   ![Watch video](./assets/)
