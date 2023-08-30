@@ -8,7 +8,7 @@ The JATE text editor is application accessible via the browser. It allows users 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Visuals](#visuals)
-  - [Technologies Used](#technologies)
+  - [Technologies Used](#technologies-used)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
