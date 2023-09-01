@@ -25,9 +25,15 @@ The JATE text editor is application accessible via the browser. It allows users 
   2. On the browser, type http://localhost:3000 to start using it. 
 
   ## Visuals
-  The following animation demonstrates the application functionality:
+  The following animations demonstrats the application functionalities:
+
+  Run app with install: 
+  https://drive.google.com/file/d/1mMo0Gj9kTaPepPd0IZvlEG1B62eu_mxO/view
 
   ![Run app with Install](./assets/pwa-editor-1.gif)
+
+  Run app with Inspect: 
+  https://drive.google.com/file/d/1FvXCiRHo3KHcUu9nNcxKbW1w_n2sPvJN/view
   
   ![Run app with Inspect](./assets/pwa-editor-final.gif)
 
