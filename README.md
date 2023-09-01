@@ -27,7 +27,9 @@ The JATE text editor is application accessible via the browser. It allows users 
   ## Visuals
   The following animation demonstrates the application functionality:
 
-  ![Watch video](./assets/pwa-editor-final.gif)
+  ![Run app with Install](./assets/pwa-editor-1.gif)
+  
+  ![Run app with Inspect](./assets/pwa-editor-final.gif)
 
   The following image shows the application's `manifest.json` file:
 
