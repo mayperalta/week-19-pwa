@@ -25,13 +25,21 @@ The JATE text editor is application accessible via the browser. It allows users 
   2. On the browser, type http://localhost:3000 to start using it. 
 
   ## Visuals
-  Here is a screenshot of the folder structure containing the generated HTML, service worker, manifest file, and .npmrc. 
+  The following animation demonstrates the application functionality:
 
-  ![Folder Structure](./assets/folder.png)
+  ![Watch video](./assets/pwa-editor-final.gif)
 
-  Here is a video and link demonstrating get, post, delete for User and Thought routes. 
+  The following image shows the application's `manifest.json` file:
 
-  ![Watch video](./assets/)
+  ![Manifest](./assets/pwa-manifest.png)
+
+  The following image shows the application's registered service worker:
+
+  ![Service Worker](./assets/pwa-service-worker.png)
+
+  The following image shows the application's IndexedDB storage:
+
+  ![IndexDB Storate](./assets/pwa-storage.png)
 
   ## Technologies Used
   HTML, CSS, JS, Node.Js, Express.js, IndexedDB, PWA, and Heroku. 
